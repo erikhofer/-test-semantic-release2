@@ -1,3 +1,10 @@
+# [1.0.0-beta.2](https://github.com/erikhofer/test-semantic-release2/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2022-09-12)
+
+
+### Features
+
+* asdasd ([a9d36b3](https://github.com/erikhofer/test-semantic-release2/commit/a9d36b383c342c2a27cec9395a461e7628ddf64b))
+
 # 1.0.0-beta.1 (2022-09-12)
 
 
