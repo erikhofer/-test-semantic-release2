@@ -1,1 +1,1 @@
-# -test-semantic-release2
+# test-semantic-release2
