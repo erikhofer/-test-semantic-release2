@@ -6,5 +6,5 @@
     "@semantic-release/changelog",
     "@semantic-release/git"
   ],
-  "branches": [{name: 'main', channel: 'beta', prerelease: true}]
+  "branches": [{"name": "main", "channel": "beta", "prerelease": true}]
 }
