@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.6.0...v1.7.0) (2022-09-14)
+
+
+### Features
+
+* asdsad ([c1e7b7f](https://github.com/erikhofer/test-semantic-release2/commit/c1e7b7ffe91f986f0d494494f10f1780572f177e))
+
 # [1.5.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.4.0...v1.5.0) (2022-09-14)
 
 
