@@ -11,4 +11,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
+    - name: Tweet
+      if: ${{ endsWith(github.ref_name, '.0') }}
+      run: echo This is a minor/major release
         
