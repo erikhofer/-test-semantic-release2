@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.1.0...v1.2.0) (2022-09-14)
+
+
+### Features
+
+* dasd ([c2bfd30](https://github.com/erikhofer/test-semantic-release2/commit/c2bfd308bbc637a49f6029c16253b3159ab9b138))
+
 # [1.1.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.0.0...v1.1.0) (2022-09-14)
 
 
