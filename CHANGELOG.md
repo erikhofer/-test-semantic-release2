@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.4.0...v1.5.0) (2022-09-14)
+
+
+### Features
+
+* dasdas ([3b631aa](https://github.com/erikhofer/test-semantic-release2/commit/3b631aa1ef94e34e36153afe3a37a6c0dd03c8c9))
+
 # [1.3.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.2.0...v1.3.0) (2022-09-14)
 
 
