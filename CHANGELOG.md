@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.2.0...v1.3.0) (2022-09-14)
+
+
+### Features
+
+* asddas ([6ed09ae](https://github.com/erikhofer/test-semantic-release2/commit/6ed09ae134e84b495db6a96bb87b301fd63c10d4))
+
 # [1.2.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.1.0...v1.2.0) (2022-09-14)
 
 
