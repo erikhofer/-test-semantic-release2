@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/erikhofer/test-semantic-release2/compare/v1.0.0...v1.1.0) (2022-09-14)
+
+
+### Features
+
+* deploy ([daee4bf](https://github.com/erikhofer/test-semantic-release2/commit/daee4bf351e53cff18e2233cf51e6de0c03eecbf))
+
 # 1.0.0 (2022-09-12)
 
 
